@@ -2,6 +2,6 @@
 Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 ## Exercises
-![informal exercise 2.5](Exercise2.5.md)
+![Informal exercise 2.5](Exercise2.5.md)
 
 ## Projects
