@@ -7,4 +7,4 @@ Description: In Laurence Moroney's video, What is ML, he compared traditional pr
 Answer: In traditional programming, when encountering a problem, we already know the rules to solve the problem. Then the program inputs the data we collect into the rules and get the answer. In machine learning, on the other hand, the rules are unknown. Instead, we input the answers along with the data and asks our program to figure out rules to solv the problem. 
 
 ## Question 2
-Description: With the 
+Description: With the  asdasdadasd
