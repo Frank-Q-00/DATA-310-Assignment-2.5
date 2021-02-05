@@ -1,4 +1,4 @@
-# Assignment 2.5
+# Exercise 2.5
 Questions from 1st Laurence Moroney's video and estimating house price. 
 
 ## Question 1
