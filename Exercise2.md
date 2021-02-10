@@ -8,7 +8,7 @@ Answer: Training and testing sets for machine learning models are like study gui
 
 
 ## Question 2
-**Purposes of the three layers and the functions **
+**Purposes of the three layers and the functions**
 
 Answer: The first layer compresses our input of a 28 by 28 size image into one single neuron. The second layer contains 128 neurons that process the input, and the relu function followed after it filters the negative values. This is because negative values could cancel out positive values, causing a skew in the output. The third layer contains 10 neurons which indicate 10 possible classes that our input image might belong to. The softmax function calculates the probabilities of the input in a certain class; then it fixes the largest value to one, telling us that which class the model believes that our image should be in. 
 
