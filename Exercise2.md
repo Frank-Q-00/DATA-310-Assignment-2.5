@@ -22,16 +22,17 @@ Answer: When we pass in the data and labels into our model, the model doesn't kn
 ## Question 4
 **Analyze the written number dataset**
 
-(1) **Shape of the image training set**
+**(1) Shape of the image training set**
+
   Answer: 60000 items, each one is 28 by 28. 
   
-(2) Length of the image training set
+**(2) Length of the image training set**
   Answer: 60000
   
-(3) Shape of the image testing set
+**(3) Shape of the image testing set**
   Answer: 10000 items, each one is 28 by 28. 
   
-(4)
+(4) 
 
 
 
