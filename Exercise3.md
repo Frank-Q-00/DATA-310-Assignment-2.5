@@ -26,3 +26,11 @@ Pooling to the image for the three previous images
 
 ## Convolved matrix
 Using the filter to convolve the given 9-by-9 matrix
+
+Original matrix and the filter: 
+
+![](original_matrix.png)            ![](filter.png) 
+
+Convolved matrix:
+
+![](convolved_matrix.png)  
