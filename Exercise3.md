@@ -18,6 +18,6 @@ Output image:
 
 ## Pooling on misc.ascent()
 
-**Pooling to the image after filter_2**
+Pooling to the image for the three previous images
 
-![](pool_stairs.jpg) 
+![](pool_stairs_1.jpg)            ![](pool_stairs_2.jpg)              ![](pool_stairs_3.jpg) 
