@@ -21,3 +21,8 @@ Output image:
 Pooling to the image for the three previous images
 
 ![](pool_stairs_1.jpg)            ![](pool_stairs_2.jpg)              ![](pool_stairs_3.jpg) 
+
+
+
+## Convolved matrix
+Using the filter to convolve the given 9-by-9 matrix
