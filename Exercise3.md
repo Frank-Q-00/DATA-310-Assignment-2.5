@@ -9,6 +9,6 @@ weight 1 =  1
 Output image:
 
 
-![](cov_stairs_1.jpg)   
+![](cov_stairs_1.jpg)     ![](cov_stairs_2.jpg)      ![](cov_stairs_3.jpg)     
 
 
