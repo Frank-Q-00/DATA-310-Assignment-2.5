@@ -33,6 +33,11 @@ filter_2 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_2 = 1
 filter_3 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_3 = 3 
 
 
+Original image:
+
+![](WolfandMan.png)                 ![](WolfandMan.jpg)
+
+
 Output image:
 
 
