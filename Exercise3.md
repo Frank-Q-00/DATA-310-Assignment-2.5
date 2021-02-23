@@ -24,6 +24,30 @@ Pooling to the image for the three previous images
 
 
 
+## Convolution on self-chosen image
+
+filter_1 = [[-1, -2, -1], [0, 2, -1], [0, 0, 3]];  weight_1 =  1   
+
+filter_2 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_2 = 1   
+
+filter_3 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_3 = 3 
+
+
+Output image:
+
+
+![](cov_wolfandman1.jpg)             ![](cov_wolfandman2.jpg)               ![](cov_wolfandman.jpg)     
+
+
+
+## Pooling on misc.ascent()
+
+Pooling to the image for the three previous images
+
+![](pool_wolfandman1.jpg)            ![](pool_wolfandman2.jpg)              ![](pool_wolfandman3.jpg) 
+
+
+
 ## Convolved matrix
 Using the filter to convolve the given 9-by-9 matrix
 
