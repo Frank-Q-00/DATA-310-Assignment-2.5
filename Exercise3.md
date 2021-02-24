@@ -66,8 +66,8 @@ Using the filter to convolve the given 9-by-9 matrix
 
 Original matrix and the filter: 
 
-![](original_matrix.png)            ![](filter.png) 
+![](original_matrix.jpg)            ![](filter.jpg) 
 
 Convolved matrix:
 
-![](convolved_matrix.png)  
+![](convolved_matrix.jpg)  
