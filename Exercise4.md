@@ -3,7 +3,7 @@
 
 ## Original matrix and filters
 
-![](./Exercise4/original_matrix_1.jpg)                  ![](./Exercise4/filter1.jpg)              ![](./Exercise4/filter2.jpg)
+![](./Exercise4/original_matrix_1.jpg)              ![](./Exercise4/filter1.jpg)              ![](./Exercise4/filter2.jpg)
 
 
 ## Output matrices
