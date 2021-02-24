@@ -12,7 +12,7 @@ filter_3 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_3 = 3
 Output image:
 
 
-![](cov_stairs_1.jpg)             ![](cov_stairs_2.jpg)               ![](cov_stairs_3.jpg)     
+![](./Exercise3/cov_stairs_1.jpg)             ![](./Exercise3/cov_stairs_2.jpg)               ![](./Exercise3/cov_stairs_3.jpg)     
 
 
 
@@ -20,7 +20,7 @@ Output image:
 
 Pooling to the image for the three previous images
 
-![](pool_stairs_1.jpg)            ![](pool_stairs_2.jpg)              ![](pool_stairs_3.jpg) 
+![](./Exercise3/pool_stairs_1.jpg)            ![](./Exercise3/pool_stairs_2.jpg)              ![](./Exercise3/pool_stairs_3.jpg) 
 
 
 
@@ -35,13 +35,13 @@ filter_3 = [[1, -2, -1], [0, 2, -1], [0, 0, 3]];   weight_3 = 3
 
 Original image:
 
-![](WolfAndMan.png)                 ![](WolfAndMan.jpg)
+![](./Exercise3/WolfAndMan.png)                 ![](./Exercise3/WolfAndMan.jpg)
 
 
 Output image:
 
 
-![](cov_wolfandman1.jpg)             ![](cov_wolfandman2.jpg)               ![](cov_wolfandman3.jpg)     
+![](./Exercise3/cov_wolfandman1.jpg)             ![](./Exercise3/cov_wolfandman2.jpg)               ![](./Exercise3/cov_wolfandman3.jpg)     
 
 
 
@@ -49,7 +49,7 @@ Output image:
 
 Pooling to the image for the three previous images
 
-![](pool_wolfandman1.jpg)            ![](pool_wolfandman2.jpg)              ![](pool_wolfandman3.jpg) 
+![](./Exercise3/pool_wolfandman1.jpg)            ![](./Exercise3/pool_wolfandman2.jpg)              ![](./Exercise3/pool_wolfandman3.jpg) 
 
 
 
@@ -66,8 +66,8 @@ Using the filter to convolve the given 9-by-9 matrix
 
 Original matrix and the filter: 
 
-![](original_matrix.jpg)            ![](filter.jpg) 
+![](./Exercise3/original_matrix.jpg)            ![](./Exercise3/filter.jpg) 
 
 Convolved matrix:
 
-![](convolved_matrix.jpg)  
+![](./Exercise3/convolved_matrix.jpg)  
