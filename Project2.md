@@ -2,7 +2,7 @@
 
 ## Logistic Regression Model
 
-''' R
+``` R
 lr_res <-
   lr_workflow %>%
   tune_grid(val_set,
@@ -45,4 +45,4 @@ lr_auc <-
   roc_curve(wealth, .pred_1:.pred_2:.pred_3:.pred_4:.pred_5) %>%
   mutate(model = "Logistic Regression")
 lr_auc
-'''
+```
