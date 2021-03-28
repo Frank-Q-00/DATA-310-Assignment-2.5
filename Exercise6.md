@@ -1,6 +1,6 @@
 # Geospacial Analysis of Peru
 
-### Subdivision Map of Peru
+## Subdivision Map of Peru
 
 ![](./Exercise6/Peru.png)
 
@@ -11,12 +11,12 @@
 
 
 
-### Raster Stack Summary
+## Raster Stack Summary
 ![](./Exercise6/Peru_rasters.png)
 
 
 
-### Regression Model Results
+## Regression Model Results
 ![](./Exercise6/Linear_reg.png)
 
 
