@@ -5,7 +5,7 @@
 ![](./Exercise6/Peru.png)
 
 
-**Cusco**
+### Cusco
 
 ![](./Exercise6/Cusco.png)
 
