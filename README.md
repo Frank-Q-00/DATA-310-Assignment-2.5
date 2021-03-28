@@ -12,6 +12,8 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 [Exercise 5 -- 2.26.2021](https://frank-q-00.github.io/Data-310/Exercise5.html)
 
+[Exercise 6 -- 3.22.2021](https://frank-q-00.github.io/Data-310/Exercise6.html)
+
 ## Projects
 [Mini Project 1](https://frank-q-00.github.io/Data-310/Mini-Project-1.html)
 
