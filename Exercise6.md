@@ -20,4 +20,6 @@
 ![](./Exercise6/Linear_reg.png)
 
 
+
+
 ![](./Exercise6/Vip.png)
