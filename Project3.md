@@ -218,7 +218,7 @@ Random Forest model
 
 ![](./Project3/rf_Cusco_model.png)
 
-![](./Project3/rf_Cusco_varlm.png)
+![](./Project3/rf_Cusco_varIm.png)
 
 
 ## Analysis
