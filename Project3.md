@@ -176,4 +176,4 @@ Raster plots for the predicted population
 
 Linear Regression           &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;                 Random Forrest
 
-![](./Project3/lr_Cusco_popsum.png)                       ![](./Project3/rf_Cusco_popsum.png)
+![](./Project3/lr_Cusco_popsum.png)         &nbsp;   &nbsp;     ![](./Project3/rf_Cusco_popsum.png)
