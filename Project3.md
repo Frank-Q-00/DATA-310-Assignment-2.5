@@ -168,12 +168,59 @@ Surprisingly, the result from the linear regression model and the random forest 
 
 
 ## Graphical Result
-Raster plot for the actual population in Cusco
+**Raster plot for the actual total population in Cusco**
 
 ![](./Project3/Cusco_pop20.png)
 
-Raster plots for the predicted population 
+**Raster plots for the predicted total population **
 
-Linear Regression           &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;                 Random Forrest
+Linear Regression    
 
-![](./Project3/lr_Cusco_popsum.png)         &nbsp;   &nbsp;     ![](./Project3/rf_Cusco_popsum.png)
+![](./Project3/lr_Cusco_popsum.png)     
+
+Random Forrest
+
+![](./Project3/rf_Cusco_popsum.png)
+
+
+**Raster plots for the predicted population difference**
+
+Linear Regression    
+
+![](./Project3/lr_Cusco_popdiff.png)     
+
+Random Forrest
+
+![](./Project3/rf_Cusco_popdiff.png)
+
+
+**3D plots for the predicted total population**
+
+Linear Regression    
+
+![](./Project3/lr_Cusco_diff3D.png)     
+
+Random Forrest
+
+![](./Project3/rf_Cusco_diff3D.png)
+
+
+From the plot result, we can see that the prediction from linear regression and random forest was almost the same.
+
+
+**Other results**
+
+Linear regression RMSE plot
+
+![](./Project3/lr_Cusco_rmse.png)
+
+Random Forest model
+
+![](./Project3/rf_Cusco_model.png)
+
+![](./Project3/rf_Cusco_varlm.png)
+
+
+## Analysis
+
+To be further decided. 
