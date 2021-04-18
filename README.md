@@ -20,3 +20,5 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 [Project 1](https://frank-q-00.github.io/Data-310/Project1.html)
 
 [Project 2](https://frank-q-00.github.io/Data-310/Project2.html)
+
+[Project 2](https://frank-q-00.github.io/Data-310/Project3.html)
