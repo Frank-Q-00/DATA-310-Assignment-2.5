@@ -5,7 +5,9 @@ In this project, I applied two models, linear regression and random forest, to p
 
 ## Numerical Result
 Actual population of Cusco: 1408049
+
 Predicted population of linear regression: 1408218
+
 Predicted population of random forest: 1408220
 
 Surprisingly, the 
