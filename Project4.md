@@ -10,4 +10,9 @@ In this project, I will explore the potential of location data. The goal make tw
 
 The data are collected by a mobile app [moveFlow](https://moveflow.tech/) where people provide their locations in exchange for a certain amount of payback. From the website, we view the real time location of all the users as well as the number of people in a certain area in Los Angeles. 
 
+![](./Project4/heatmap.png)    
 
+![](./Project4/track.png)    
+
+
+The detailed data come from a [dataset provided by matsim](https://github.com/matsim-scenarios/matsim-los-angeles). Each record contains three parts: longtitude, latitude and time stamp. To analyze the data, We use basic convolutional neural networks and tools provided by matsim. Since the majority of the matsim codes are written in Java, we will employ IntelliJ as our primary IDE for running the model. 
