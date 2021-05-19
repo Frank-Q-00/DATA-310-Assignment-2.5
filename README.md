@@ -32,4 +32,4 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
   - [Final Project Slides](https://github.com/Frank-Q-00/Data-310/blob/main/FinalProject/Data_310_Final_Presentation.pdf)
 
-  - [Final Project Video]
+  - [Final Project Video](https://www.youtube.com/watch?v=AX9eaB4kj3U)
