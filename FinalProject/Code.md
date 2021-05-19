@@ -1,3 +1,5 @@
+## Main Code (in Python)
+
 ``` Python
 import pandas as pd
 import numpy as np
@@ -81,6 +83,8 @@ tdf.plot_trajectory(zoom=12, weight=3, opacity=0.9, tiles='Stamen Toner')
 
 ```
 
+
+## Code to Generate Shapefiles of James City (in R)
 
 ```R
 rm(list=ls(all=TRUE))
