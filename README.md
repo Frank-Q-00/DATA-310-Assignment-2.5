@@ -28,6 +28,8 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 [Final Project: Trajectory Prediction Based on GPS Data](https://frank-q-00.github.io/Data-310/FinalProject.html)
 
--- [Final Project Slides](https://github.com/Frank-Q-00/Data-310/blob/main/FinalProject/Data_310_Final_Presentation.pdf)
+  - [Final Project Code]
 
--- [Final Project Video]
+  - [Final Project Slides](https://github.com/Frank-Q-00/Data-310/blob/main/FinalProject/Data_310_Final_Presentation.pdf)
+
+  - [Final Project Video]
