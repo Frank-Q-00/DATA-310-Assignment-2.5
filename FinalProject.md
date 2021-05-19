@@ -44,4 +44,62 @@ How to predict my future movement trajectory based on my movement records?**
 - The Moveflow App developed by Mr. Gregor Laemmel and Dr. Tyler Frazier. 
 - Collect the user’s location data while giving user flowcoins (a cryptocurrency) back as reimbursement
 - Receive the data compiled by Mr. Gregor in two files, one gpx file, one jsonl file. 
+
 ![](./FinalProject/moveflow_ss.png)
+
+<br>
+
+**GPX file:** contains 4 columns: longitude, latitude, altitude and time stamp. 
+
+![](./FinalProject/gpx_ss.png)
+
+<br>
+
+**Jsonl file:** contains 3 more columns: speed, activity and course.
+
+![](./FinalProject/jsonl_ss.png)
+
+<br>
+
+Although the jsonl file contains information that might be useful in the future (activity), I decide to use the gpx file since it’s time format is more readable and can be fit into the model.
+
+<br>
+
+Eventually,  I retrieve a pandas dataframe from the gpx file, the size of which is 5008 rows by 3 columns. The three columns are: X for longitude, Y for latitude, and time. 
+
+![](./FinalProject/df_ss.png)
+
+<br>
+<br>
+
+
+
+## Model and Results
+
+<br>
+
+**Model Description**
+We use the scikit-mobility package in Python. This package is able to 
+- Process mobility data of various forms, including GPS data
+- Extract mobility metrics and patterns from data
+- Generate synthetic individual trajectories and move flows
+
+The majority of the codes used to generate the model come from the scikit-mobility github repository. 
+
+<br>
+
+**Trajectory Data Frame**
+
+``` Python
+
+import skmob
+
+# Create a TrajDataFrame
+tdf = skmob.TrajDataFrame(track_points)
+tdf.columns = ['lng','lat','datetime']
+tdf['uid'] = 1
+tdf
+
+tdf.plot_trajectory(zoom=12, weight=3, opacity=0.9, tiles='Stamen Toner')
+
+```
