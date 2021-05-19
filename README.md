@@ -17,9 +17,9 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 ## Projects
 [Mini Project 1](https://frank-q-00.github.io/Data-310/Mini-Project-1.html)
 
-[Project 1](https://frank-q-00.github.io/Data-310/Project1.html)
+[Project 1: San Antonio House Price Prediction](https://frank-q-00.github.io/Data-310/Project1.html)
 
-[Project 2](https://frank-q-00.github.io/Data-310/Project2.html)
+[Project 2: DHS Data Analysis](https://frank-q-00.github.io/Data-310/Project2.html)
 
 [Project 3](https://frank-q-00.github.io/Data-310/Project3.html)
 
