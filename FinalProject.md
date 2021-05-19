@@ -9,6 +9,7 @@
 - Decide to make use of the GPS data for predictions
 - Due to the privacy concerns, I would start with my personal GPS data
 
+<br>
 **Goal**
 - Based my historical GPS data with time (longitude, latitude, and time when I’m at the location), build a machine learning model that will predict my future movements (trajectories).
 - Assess how the model can be improved in order to apply to a dataset with a large number of agents. 
