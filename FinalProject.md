@@ -149,7 +149,7 @@ HeatMap(hl_df[['lat', 'lng']].values).add_to(m)
 <br>
 
 
-Individual Generative Model
+**Individual Generative Model**
 
 We have the basic models that predicts the stops and home location based on my historical GPS data.  The next step is to generate agents based on the data and predict their trajectories in a certain time interval. To Achieve that ,we first need a tessellation -- an object that marks the subdivisions of a certain area, and in my case, James City County. 
 
@@ -175,10 +175,48 @@ tdf.plot_trajectory(zoom=12, weight=3, opacity=0.9, tiles='Stamen Toner')
 <br>
 
 
+
 ## Moving Forward
+
+**Individual Generative Model**
 
 However, the individual generative model created before is solely based on the James City tessellation, and it does not incorporate my personal mobility records. Therefore, the following step for me is to find another function that incorporates my records into the data. So it will predict based on my records
 
+<br>
+
+**Collective Generative Model**
+
+After finished at the individual level, I would consider moving to forward to collective generative models, such as the Gravity model or the Radiation models. These models can predict the trajectories of a large number of agents  and estimate their movements within a certain area. 
+However, to run such models, not only do I need data from more agents, but I also need to convert their location data to flow data. Instead of long and lat, we need origin and destination. 
+
+<br>
+
+**Alternative Approach**
+
+- Diary-Based Trajectory Generator from the article _Data-driven generation of spatio-temporal routines in human mobility_
+  - Generate a mobility diary (contains long, lat, time stamp) using MD, a Markov model that captures routines and out-of-routine behaviors
+  - Pass the diary to a trajectory generator, d-EPR, consider new locations and visited locations, as well as urban structures and population density
+
+<br>
+
+**Desired Result**
+
+- Map objects generated from the model
+- Validation methods
+  - Trip distance
+  - Radius of gyration
+  - Entropy
+- Real data source
+  - CDR
+  - GPS
+
+
+![](./FinalProject/validation_ss.png)
 
 
 
+## Reference 
+
+- Pappalardo, L., Simini, F. Data-driven generation of spatio-temporal routines in human mobility. Data Min Knowl Disc 32, 787–829 (2018). https://doi.org/10.1007/s10618-017-0548-4
+
+- Scikit-mobility repository. https://github.com/scikit-mobility/scikit-mobility#collaborate
