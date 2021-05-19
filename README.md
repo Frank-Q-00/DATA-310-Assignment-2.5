@@ -24,5 +24,6 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 [Project 3: Estimating Population Density of Cusco](https://frank-q-00.github.io/Data-310/Project3.html)
 
-[Project 4: Final Project Proposal -- Trajectory Predictions](https://frank-q-00.github.io/Data-310/Project4.html)
+[Project 4: Final Project Proposal](https://frank-q-00.github.io/Data-310/Project4.html)
 
+[Final Project: Trajectory Prediction Based on GPS Data](https://frank-q-00.github.io/Data-310/Project4.html)
