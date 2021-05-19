@@ -2,7 +2,7 @@
 Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 ## Exercises
-[Exercise 1 -- 2.3.2021](https://frank-q-00.github.io/Data-310/Exercise1.html)
+>>[Exercise 1 -- 2.3.2021](https://frank-q-00.github.io/Data-310/Exercise1.html)
 
 [Exercise 2 -- 2.8.2021](https://frank-q-00.github.io/Data-310/Exercise2.html)
 
@@ -14,6 +14,7 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 [Exercise 6 -- 3.22.2021](https://frank-q-00.github.io/Data-310/Exercise6.html)
 
+
 ## Projects
 [Mini Project 1](https://frank-q-00.github.io/Data-310/Mini-Project-1.html)
 
@@ -23,5 +24,5 @@ Welcome to Frank Qiu's Applied Machine Learning Github page.
 
 [Project 3: Estimating Population Density of Cusco](https://frank-q-00.github.io/Data-310/Project3.html)
 
-[Project 4: Final Project Proposal -- Geospatial Trajectory Predictions](https://frank-q-00.github.io/Data-310/Project4.html)
+[Project 4: Final Project Proposal -- Trajectory Predictions](https://frank-q-00.github.io/Data-310/Project4.html)
 
